@@ -1,0 +1,29 @@
+:imagesdir: assets
+
+= Gitlab
+
+== General ideas
+
+* Brainstorming 2019-11-14 Myriam @Office
+** 2 Concrete variants
+** 1 additional variant discussed
+** List of further ideas
+
+image::whiteboard/2019-11-14_brainstorming_myriam_1.png[Part 1, 800]
+
+** Available pipeline and idea of Map-Based indication
+
+image::whiteboard/2019-11-14_brainstorming_myriam_2.png[Part 2, 800]
+
+
+== Merge Request
+
+https://docs.gitlab.com/ee/api/merge_requests.html[Merge Request API]
+
+=== List of MRs
+
+https://docs.gitlab.com/ee/api/merge_requests.html#list-merge-requests[List merge requests]
+
+=== Single MR
+
+https://docs.gitlab.com/ee/api/merge_requests.html#get-single-mr[Single MR API description]
